@@ -28,6 +28,8 @@ soup = BeautifulSoup(response.text, "html.parser")
 
 CSV file with columns:
 
+<img width="762" height="515" alt="image" src="https://github.com/user-attachments/assets/db0a18fe-b88f-4f41-a9d9-c662068afde2" />
+
 Book Title
 
 Price
